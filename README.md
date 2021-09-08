@@ -9,7 +9,7 @@
   
   + Malware analysis
 
-- 📫 Email: yyhuang_ieu@163.com
+- 📫 Email: 
 - 🏠 Homepage: [https://rruzi.github.io/](https://rruzi.github.io/)
 
 <!---
