@@ -9,7 +9,7 @@
   
   + Malware analysis
 
-- 📫 Email: 
+- 📫  
 - 🏠 Homepage: [https://rruzi.github.io/](https://rruzi.github.io/)
 
 <!---
