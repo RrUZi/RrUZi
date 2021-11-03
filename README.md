@@ -2,6 +2,8 @@
 
 [![img](http://www.functionx.com/csharp1/windows/commandline1.gif)](https://rruzi.github.io)
 
+**_Master Student_** - PRC State Key Laboratory of MEAC
+
 - I’m interested in 
   + Reverse engineering
   
