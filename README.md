@@ -32,7 +32,7 @@
 ## Contacts
 
 - 📫 [Hwang](mailto:yyhuang_ieu@163.com)
-- 🏠 Homepage: [https://rruzi.github.io/](https://rruzi.github.io/)
+- 🏠 [Homepage](https://rruzi.github.io/)
 
 <!---
 RrUZi/RrUZi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
