@@ -3,12 +3,10 @@
 
 **_Master Student_** - PRC State Key Laboratory of MEAC
 
-- I’m interested in 
-  + Reverse engineering
-  
-  + Network protocols
-  
-  + Malware analysis
+I’m interested in 
+  - Reverse engineering
+  - Network protocols
+  - Malware analysis
 
 ## Publications
 
