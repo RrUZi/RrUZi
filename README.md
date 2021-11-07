@@ -6,7 +6,7 @@
 I’m interested in 
   - Reverse engineering
   - Network protocols
-  - Malware analysis
+  - Malware analysis 
 
 ## Publications
 
